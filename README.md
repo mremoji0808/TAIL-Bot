@@ -4,7 +4,7 @@
 
 [![Support server](https://discordapp.com/api/guilds/738363475767853198/embed.png)](https://discord.gg/nacDpC7)
 
-TAIL is an acronym for "Talk About It Later", quite amusing, isn't it?
+TAIL is an acronym for "Talk About It Later", quite amusing, isn't it? <br>
 The default prefix is `*`, mentions @TAIL can also be used as the prefix.
 TAIL is a multipurpose bot featuring over 80 commands.
 
