@@ -41,7 +41,7 @@ If you encounter any bugs or issues with TAIL, you may join the [support discord
 | `prefix-reset` | Reset the custom prefix to the default prefix|
 | `welcome` | Enable welcome module, setting the channel and customise message. |
 | `leave` | Enable leave module, setting the channel and customise message. |
-| `guild-logs | A menu that allow you to set 5 different type of logs. Mod-logs, Join-logs, Lave-logs, Edit-Msg-logs and Delete-logs |
+| `guild-logs` | A menu that allow you to set 5 different type of logs. Mod-logs, Join-logs, Lave-logs, Edit-Msg-logs and Delete-logs |
 | `Blacklist` | Blacklist a user, channel and command |
 | `whitelist` | Whitelist a user, channel and command|
 
