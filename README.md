@@ -3,9 +3,9 @@
 # TAIL Bot™️
 
 [![Support server](https://discordapp.com/api/guilds/738363475767853198/embed.png)](https://discord.gg/nacDpC7)
-[![](https://tokei.rs/b1/github/mremoji0808/TAIL-bot?category=lines)](https://github.com/memoji0808/TAIL-bot) 
-[![](https://tokei.rs/b1/github/mremoji0808/TAIL-bot?category=code)](https://github.com/memoji0808/TAIL-bot) 
-[![](https://tokei.rs/b1/github/mremoji0808/TAIL-bot?category=files)](https://github.com/memoji0808/TAIL-bot) 
+[![](https://tokei.rs/b1/github/mremoji0808/TAIL-bot?category=lines)](https://github.com/memoji0808/TAIL-BOT-V3) 
+[![](https://tokei.rs/b1/github/mremoji0808/TAIL-bot?category=code)](https://github.com/memoji0808/TAIL-BOT-V3)
+[![](https://tokei.rs/b1/github/mremoji0808/TAIL-bot?category=files)](https://github.com/memoji0808/TAIL-BOT-V3)
 
 TAIL is an acronym for "Talk About It Later", quite amusing, isn't it?
 The default prefix is `*`, mentions @TAIL can also be used as the prefix.
